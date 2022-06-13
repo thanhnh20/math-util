@@ -43,7 +43,7 @@ public class MathUltiTest {
         Assert.assertEquals(6, MathUlti.getFactorial(3));
         Assert.assertEquals(24, MathUlti.getFactorial(4));
         Assert.assertEquals(120, MathUlti.getFactorial(5));
-        Assert.assertEquals(240, MathUlti.getFactorial(6));
+        Assert.assertEquals(720, MathUlti.getFactorial(6));
 
         // hàm giúp so sánh 2 giá trị nào đó có giống nhau hay ko
         // nếu giống nhau -> thẩy màu xanh đèn đường - đường thông, code ngon
